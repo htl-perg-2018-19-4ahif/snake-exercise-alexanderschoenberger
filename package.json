@@ -1,0 +1,15 @@
+{
+  "name": "ue01",
+  "version": "1.0.0",
+  "description": "",
+  "main": "snake.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alexander Schoenberger",
+  "license": "ISC",
+  "dependencies": {
+    "ansi": "^0.3.1",
+    "keypress": "^0.2.1"
+  }
+}
